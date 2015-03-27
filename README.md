@@ -1,2 +1,2 @@
 # yt2vlc
-Transform YouTube URLs to VLC playlist files.
+Node module that allows transformation of YouTube playlist URLs to VLC playlist files.
