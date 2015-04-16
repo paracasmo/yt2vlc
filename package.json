@@ -22,7 +22,8 @@
 	"bin": "yt2vlc.js",
 	"preferGlobal": true,
 	"dependencies": {
-		"htmlparser2":"fb55/htmlparser2"
+		"htmlparser2":"fb55/htmlparser2",
+		"request":"*"
 		},
 	"devDependencies": {}
 }
