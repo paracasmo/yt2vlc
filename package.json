@@ -23,7 +23,8 @@
 	"preferGlobal": true,
 	"dependencies": {
 		"htmlparser2":"fb55/htmlparser2",
-		"request":"*"
+		"request":"*",
+		"data2xml":"*"
 		},
 	"devDependencies": {}
 }
