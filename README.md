@@ -4,7 +4,7 @@
 ## CLI Usage
 
 ```js
-yt2vlc <playlistId> <outputFile>
+node yt2vlc <playlistId> <outputFile>
 ```
 
 Definitely work in progress. Currently does its job.
