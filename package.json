@@ -1,9 +1,9 @@
 {
 	"name": "yt2vlc",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"license": "GPLv2",
 	"description": "A module that allows transformation of YouTube playlist URLs to VLC playlist files",
-	"keywords": ["youtube", "playlist", "vlc", "transformation"],
+	"keywords": ["youtube", "playlist", "vlc", "transformation", "xspf"],
 	"homepage": "https://github.com/paracasmo/yt2vlc",
 	"author": {
 		"name": "paracasmo",
@@ -19,7 +19,9 @@
 		"email": "paracasmo@users.noreply.github.com"
 	},
 	"main": "yt2vlc.js",
-	"bin": "yt2vlc.js",
+	"bin": {
+		"yt2vlc":"yt2vlc.js"
+	},
 	"preferGlobal": true,
 	"dependencies": {
 		"htmlparser2":"fb55/htmlparser2",
