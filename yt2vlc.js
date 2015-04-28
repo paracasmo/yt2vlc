@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var htmlparser = require("htmlparser2");
 var request = require('request');
 var fs = require('fs');
